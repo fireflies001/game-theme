@@ -1,0 +1,92 @@
+html * {
+    font-family: 'Exo', sans-serif !important;
+}
+
+.download-btn {
+    width: 400px;
+    float: right;
+}
+.patch-btn {
+    width: 400px;
+}
+.status {
+    margin-left: 3rem;
+    font-family: 'Exo', sans-serif;
+}
+.news {
+    font-family: 'Exo', sans-serif;
+}
+.online-Stat {
+    font-family: 'Exo', sans-serif;
+    float: right;
+    background-color:#79D70F;
+    padding: .2rem;
+    border: none;
+    border-radius: 25px;
+    outline: none;
+    color: #fff;
+    font-size: .7rem;
+}
+.server-info {
+    font-size: .7rem;
+}
+.server-status {
+    font-size: .7rem;
+}
+.update-btn {
+    border: none;
+    outline: none;
+    background-color:#79D70F;
+    border-radius: 25px;
+    font-size: .8rem;
+    color: #fff;
+}
+.maintenance-btn {
+    border: none;
+    outline: none;
+    background-color:#BAABDA;
+    border-radius: 25px;
+    font-size: .8rem;
+    color: #fff;
+}
+.notice-btn {
+    border: none;
+    outline: none;
+    background-color:#FD5E53;
+    border-radius: 25px;
+    font-size: .8rem;
+    color: #fff;
+}
+
+a:visited {
+    color: #000000;
+}
+.links {
+    font-size: small;
+}
+::placeholder {
+    color: #B0EACD !important;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #B0EACD !important;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: #B0EACD !important;
+  }
+  .inputUsername {
+      color: #B0EACD;
+  }
+  .form-control:focus{
+    border-color: #B0EACD;  
+    box-shadow: none; 
+    -webkit-box-shadow: none;
+  } 
+  .signin-btn {
+      background-color: #B0EACD;
+      
+      color: #3E978B;
+      font-size: .8rem;
+  }
