@@ -1,7 +1,11 @@
 html * {
     font-family: 'Exo', sans-serif !important;
 }
-
+#patchnote1 {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+}
 .download-btn {
     width: 400px;
     float: right;
@@ -57,7 +61,10 @@ html * {
     font-size: .8rem;
     color: #fff;
 }
-
+.custom-font {
+    font-size: 1rem;
+    
+}
 a:visited {
     color: #000000;
 }
